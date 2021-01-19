@@ -40,7 +40,7 @@
 
 <img align="left" alt="Lucas GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=lferlr&show_icons=true&hide_border=true&theme=blue-green" />
 
-![Lucas GitHub Stats](https://github-readme-stats.vercel.app/api?username=lferlr&show_icons=true&theme=radical)
+![Lucas GitHub Stats](https://github-readme-stats.vercel.app/api?username=lferlr&show_icons=true&theme=dracula)
 
 ![Lucas GitHub Stats](https://github-readme-stats.vercel.app/api?username=lferlr&show_icons=true&theme=radical)
 
