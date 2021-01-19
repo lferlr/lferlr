@@ -42,11 +42,7 @@
 
 <br />
 
-[![Lucas's WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=lferlr)](https://github.com/lferlr/github-readme-stats)
-
-<br />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lferlr&layout=compact" style="max-width:100%;">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lferlr&layout=demo" style="max-width:100%;">
 
 [Lucas]: https://www.linkedin.com/in/lucas-fernandes-lopes/
 [linkedin]: https://www.linkedin.com/in/lucas-fernandes-lopes/
