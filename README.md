@@ -42,7 +42,7 @@
 
 <br />
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
+[![Lucas's Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=lferlr)](https://github.com/lferlr)
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lferlr&layout=compact" style="max-width:100%;">
 
