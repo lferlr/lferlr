@@ -42,6 +42,8 @@
 
 ![Lucas GitHub Stats](https://github-readme-stats.vercel.app/api?username=lferlr&show_icons=true&theme=radical)
 
+![Lucas GitHub Stats](https://github-readme-stats.vercel.app/api?username=lferlr&show_icons=true&theme=radical)
+
 <br />
 <br />
 <br />
