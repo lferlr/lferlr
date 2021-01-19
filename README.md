@@ -41,8 +41,6 @@
 ![Lucas GitHub Stats](https://github-readme-stats.vercel.app/api?username=lferlr&show_icons=true&theme=dracula)
 
 <br />
-<br />
-
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lferlr&layout=compact" style="max-width:100%;">
 
