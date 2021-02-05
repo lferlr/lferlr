@@ -9,9 +9,6 @@
 
 ### Connect with me:
 
-<script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
-<div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="pt_BR" data-type="horizontal" data-theme="dark" data-vanity="lucas-fernandes-lopes"><a class="LI-simple-link" href='https://br.linkedin.com/in/lucas-fernandes-lopes?trk=profile-badge'>Lucas Fernandes Lopes Rodrigues</a></div>
-
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
