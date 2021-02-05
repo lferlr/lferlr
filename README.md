@@ -2,11 +2,15 @@
 
 ### I'm a student of Web and Mobile Development!!
 
+
 - 🌱 I’m currently learning React ⚛️ and Java
 - 🎯 I’m looking to learn more each day
 - 🥅 2021 Goals: Learn more about React and publish an App coded in React Native
 
 ### Connect with me:
+
+<script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
+<div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="pt_BR" data-type="horizontal" data-theme="dark" data-vanity="lucas-fernandes-lopes"><a class="LI-simple-link" href='https://br.linkedin.com/in/lucas-fernandes-lopes?trk=profile-badge'>Lucas Fernandes Lopes Rodrigues</a></div>
 
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
@@ -43,6 +47,7 @@
 <br />
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lferlr&layout=compact" style="max-width:100%;">
+
 
 [Lucas]: https://www.linkedin.com/in/lucas-fernandes-lopes/
 [linkedin]: https://www.linkedin.com/in/lucas-fernandes-lopes/
