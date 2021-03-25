@@ -1,6 +1,6 @@
 ## 👨🏻‍💻 Hi there, I'm [Lucas] 👋
 
-### I'm a student of Web and Mobile Development!!
+### I'm a student of Web and Mobile Development and course systems analysis and development!!
 
 
 - 🌱 I’m currently learning React ⚛️ and Java
