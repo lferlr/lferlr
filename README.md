@@ -29,9 +29,6 @@
 </div>
 
 <br />
-<br />
-<br />
-<br />
 
 <div>
   <img height="190em" src="https://github-readme-stats.vercel.app/api?username=lferlr&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true"/>
