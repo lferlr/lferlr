@@ -1,16 +1,17 @@
 ## 👨🏻‍💻 Hi there, I'm [Lucas] 👋
 
-### I'm a Web and Mobile Development!!
+### I'm a Full Stack Developer!!
 
 
-- 🌱 I’m currently learning React ⚛️ and .NET
+- 🌱 I'm currently a .NET developer focused on the back-end, working very hard.
 - 🎯 I’m looking to learn more each day
-- 🥅 2023 Goals: Learn more about React and publish an App coded in React Native or Swift
+- 🥅 2024 Goals: Learn more about software architecture in .NET and learn Swift
 
 ### Connect with me:
 
 [<img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">][linkedin]
 [<img src="https://img.shields.io/badge/-Instagram-%23333?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">][instagram]
+[<img src="https://img.shields.io/badge/-Youtube-%23333?style=for-the-badge&logo=youtube&logoColor=red" target="_blank">][youtube]
 
 
 ### 🛠 Languages and Tools:
@@ -40,3 +41,5 @@
 [Lucas]: https://www.linkedin.com/in/lucas-fernandes-lopes/
 [linkedin]: https://www.linkedin.com/in/lucas-fernandes-lopes/
 [instagram]: https://www.instagram.com/opagodev/
+[youtube]: https://www.youtube.com/channel/UCgN5M0UCnTheIvS3lLB-LfA
+
