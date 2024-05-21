@@ -26,7 +26,7 @@
   <img align="left" alt="Android" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" />
   <img align="left" alt="React" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" />
   <img align="left" alt="Python" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
-  <img height="32" alt="GitHub" src="https://cdn3.iconfinder.com/data/icons/inficons/512/github.png" />
+  <img align="left" alt="swift" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" />
 </div>
 
 <br />
